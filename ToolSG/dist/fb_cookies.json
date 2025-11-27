@@ -1,0 +1,48 @@
+[
+
+  {
+    "name": "_ga_EZJEHLQTEC",
+    "value": "deleted",
+    "domain": ".au.vtc.vn",
+    "path": "/",
+    "expires": 1787342687.824085,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+
+
+
+  {
+    "name": "_ga",
+    "value": "GA1.1.1982465560.1752291286",
+    "domain": ".vtc.vn",
+    "path": "/",
+    "expires": 1789481545.808888,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_EZJEHLQTEC",
+    "value": "GS2.1.s1754596035$o19$g1$t1754597062$j58$l0$h0",
+    "domain": ".vtc.vn",
+    "path": "/",
+    "expires": 1789157062.736254,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_ZF7B4XDHMY",
+    "value": "GS2.1.s1754921471$o8$g1$t1754921545$j60$l0$h0",
+    "domain": ".vtc.vn",
+    "path": "/",
+    "expires": 1789481545.808519,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+
+
+]
