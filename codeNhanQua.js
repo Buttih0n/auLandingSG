@@ -99,5 +99,4 @@ const processItems = async () => {
 	}
 };
 
-// Lancer le processus
 processItems();
