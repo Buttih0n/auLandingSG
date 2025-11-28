@@ -82,7 +82,7 @@ const processItems = async () => {
 			if (!item.AccountReceived) {
 				await new Promise(resolve => setTimeout(resolve, 2000));
 				const newItemResponse = await claimPrize(item)
-				console.log(`${item.ItemName} : newItemResponse.mess`, );
+				console.log(`${item.ItemName} : ${newItemResponse.mess}` );
 			}
 		}
 		const response7 = await gestList(7);
@@ -91,7 +91,7 @@ const processItems = async () => {
 			if (!item.AccountReceived) {
 				await new Promise(resolve => setTimeout(resolve, 2000));
 				const newItemResponse = await claimPrize(item)
-				console.log(`${item.ItemName} : newItemResponse.mess`, );
+				console.log(`${item.ItemName} : ${newItemResponse.mess}` );
 			}
 		}
 	} catch (error) {
